@@ -16,7 +16,5 @@ More about it here: https://beta.openai.com/docs/models/gpt-3
 ![Screenshot (36)](https://user-images.githubusercontent.com/47839626/213904897-4f48f800-9ffb-40ea-aeec-133e2e859e18.png)
 
 
-![Screenshot (37)](https://user-images.githubusercontent.com/47839626/213904901-194d671b-b245-4931-9597-00408634427e.png)
-
 
 ![Screenshot (38)](https://user-images.githubusercontent.com/47839626/213904904-2cdf9c5f-d244-4a9b-9590-656cb910c20d.png)
